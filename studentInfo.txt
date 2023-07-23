@@ -1,0 +1,3 @@
+Regn.no = 12100392, 
+Name = Salik,
+Grade = 9.13,
